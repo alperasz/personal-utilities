@@ -1,0 +1,1 @@
+ I had a TV that I used for simracing but it's screen was broken close to upper right corner, if any color comes there screen goes crazy. So I had to play games in windowed mode and the broken place had to stay black. I got sick of changing wallpaper to plain black and enabling hide taskbar option everytime I use TV. This script does the thing just in one click.
