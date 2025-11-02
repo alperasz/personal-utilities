@@ -7,7 +7,6 @@ DC = 1.5
 DD = 1
 FD = 0.5
 FF = 0
-# 2.87 60 kredi
 
 onay = input("Gecen doneme ait notlarinizla baslamak istiyorsaniz e istemiyorsaniz h yazin: ")
 if(onay == "e"):
@@ -96,3 +95,4 @@ if(yukseltme_onay == "e"):
         
 agno = top_not / top_kredi
 print("AGNO: ", agno)
+
